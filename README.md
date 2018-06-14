@@ -15,7 +15,6 @@ There are a few important differences between the dash_html_components and the H
 
 Besides that, all of the available HTML attributes and tags are available to you within your Python context.
 
-### Dash Core and HTML Components
+### Dash Documentation
 
-* https://dash.plot.ly/dash-core-components
-* https://dash.plot.ly/dash-html-components
+https://dash.plot.ly/
